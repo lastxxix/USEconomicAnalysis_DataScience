@@ -1,1 +1,1 @@
-jupyter nbconvert --to slides finale.ipynb --no-input --SlidesExporter.reveal_number='c/t'
+python3 -m nbconvert --to html finale.ipynb --no-input --SlidesExporter.reveal_number='c/t' --template reveal
