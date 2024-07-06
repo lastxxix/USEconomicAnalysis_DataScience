@@ -19,7 +19,7 @@ Per eseguire il notebook, è necessario ottenere una chiave API da FRED e config
 2. **Crea un file `.env`:**
 
    Crea un file `.env` nella radice del repository e aggiungi la tua chiave API come segue:
-   API_KEY="inserisci_chiave"
+   `API_KEY="inserisci_chiave"`
 
 
 
