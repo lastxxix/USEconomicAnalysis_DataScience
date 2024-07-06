@@ -5,5 +5,5 @@
 I requisiti necessari per eseguire il notebook sono elencati nel file `files/requirements.txt`.
 
 ```bash
-pip install -r files/requirements.txt
+pip3 install -r files/requirements.txt
 
