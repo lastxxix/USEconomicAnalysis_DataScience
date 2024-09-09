@@ -27,7 +27,7 @@ executing==2.0.1
 fastapi==0.100.1
 fastjsonschema==2.20.0
 filelock==3.15.4
-fiona==1.9.6
+fiona==1.10.0
 fonttools==4.53.0
 fqdn==1.5.1
 fredapi==0.5.2
