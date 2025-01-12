@@ -37,7 +37,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: 'finale.slides.html'
-      - name: Deploy to GitHub Pages
+          path: '.'
+      - name: Deploy finale.slides.html to github pages
         id: deployment
         uses: actions/deploy-pages@v4
